@@ -10,6 +10,8 @@
 
 1-2页的实验报告,内容需要包括以下方面：数据预处理描述，模型描述，训练可视化结果(loss), 注释中三个问题解答， 结果分析与思考
 
+模型预计训练时间：本机cpu<5min
+
 ### Lab-handout 使用说明
 填充“...”处的代码
 
@@ -48,5 +50,4 @@ Conditional RNN P(xt| category, x0,x1,...)
 
 ![image](https://github.com/chang-github-00/Lab-handout/blob/main/conditional_rnn.png)
 
-使用本机cpu训练 <5min 
 

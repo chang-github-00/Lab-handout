@@ -46,5 +46,7 @@ main.py注释中有详细instructions
 ### Hints 
 Conditional RNN P(xt| category, x0,x1,...)
 
+![image](https://github.com/chang-github-00/Lab-handout/blob/main/conditional_rnn.png)
+
 使用本机cpu训练 <5min 
 

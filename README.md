@@ -19,9 +19,9 @@
 | Han     | Uamanov         |  Sangeran   | Geller |
 
 ### Lab-handout 使用说明
-填充“...”处的代码
+填充“...”处的代码 （main.py注释中有详细instructions）
 
-main.py注释中有详细instructions
+运行main.py文件
 
 
 ### Some Tips

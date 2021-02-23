@@ -8,7 +8,13 @@
 
 提交代码(不包括训练好的模型、和数据集文件)
 
-1-2页的实验报告,内容需要包括以下方面：数据预处理描述，模型描述，训练可视化结果(loss),  结果分析与思考
+1-2页的实验报告,内容需要包括以下方面：数据预处理描述，模型描述，训练可视化结果(loss), 注释中三个问题解答， 结果分析与思考
+
+### Lab-handout 使用说明
+填充“...”处的代码
+
+main.py注释中有详细instructions
+
 
 ### Some Tips
 - How to organize a pytorch project ? 
@@ -34,8 +40,11 @@
 
   __ init.py__ 可以为空，也可以定义包的属性和方法，但其必须存在，其它程序才能从这个目录中导入相应的模块或函数。
 
+
+
+
 ### Hints 
-Condition RNN
+Conditional RNN P(xt| category, x0,x1,...)
 
 使用本机cpu训练 <5min 
 

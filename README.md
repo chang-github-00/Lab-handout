@@ -1,4 +1,4 @@
-# Lab-handout： AI引论自然语言处理小班课RNN编程作业
+# Lab-handout： AI引论NLP实践课RNN编程作业
 
 
 基于charRNN训练一个语言模型，生成不同国家的名字
@@ -11,6 +11,12 @@
 - 1页实验报告,内容需要包括以下方面：数据预处理描述，模型描述，训练可视化结果(loss), 注释中三个问题解答， 结果分析与思考
 
 - 预计需要半天完成，模型预计训练时间：本机cpu<5min
+
+### 生成样例
+
+|  Chinese    | Russian      | Spanish     | German |
+| ---------- | :-----------:  | :-----------: | :-----------: |
+| Han     | Uamanov         |  Sangeran   | Geller |
 
 ### Lab-handout 使用说明
 填充“...”处的代码
